@@ -1,0 +1,7 @@
+customtkinter
+Pillow
+requests
+beautifulsoup4
+selenium
+webdriver-manager
+pystray

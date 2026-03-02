@@ -1,0 +1,20 @@
+{
+    "speed": {
+        "max_extraction_workers": 4,
+        "max_download_workers": 4,
+        "download_speed_limit": 12500
+    },
+    "error_handling": {
+        "max_retries": 3,
+        "abort_on_404": false,
+        "enable_server_skipping": true,
+        "auto_skip_on_fail": true
+    },
+    "paths": {
+        "download_path": "Downloads"
+    },
+    "ui": {
+        "theme": "dark",
+        "countdown_seconds": 10
+    }
+}
