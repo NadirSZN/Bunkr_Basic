@@ -1,4 +1,4 @@
-# Bunker Downloader
+# Bunkr Downloader
 
 Bunker Downloader is a versatile and completely rewritten GUI-based download manager for bunkr albums and files. It features resilient error management, and an interactive tree-view-based user interface.
 
@@ -40,3 +40,4 @@ Upon running the application for the first time, a clean, modern UI will appear.
 
 ## Disclaimer
 This tool is intended for personal and educational use. Always respect intellectual property rights and follow the terms of service of any host you download files from.
+
